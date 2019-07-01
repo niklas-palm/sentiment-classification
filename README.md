@@ -4,8 +4,8 @@ This is a repo containing all the assets produced as a result of my master's the
 ## Download
 Clone the repo
 ```bash
-git clone bla
-``
+git clone https://github.com/niklas-palm/sentiment-classification.git
+```
 
 ## Instructions
 The Technical report PDF contains a brief summary and description of the project and the assets inside the repo, as well as a how to use them and some personal reflections.
