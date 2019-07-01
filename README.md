@@ -3,7 +3,7 @@ This is a repo containing all the assets produced as a result of my master's the
 
 ## Download
 Clone the repo
-``Bash
+``bash
 git clone bla
 ``
 
